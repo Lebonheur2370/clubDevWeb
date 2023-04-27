@@ -1,0 +1,31 @@
+body{
+    font-family: 'Open sans', 'Arial', sans-serif;
+    margin: 0;
+}
+
+header{
+    background: url('profil2.jpg');
+    text-align: center;
+    color: white;
+    padding: 10px 10px 50px 10px;
+    background-position: center center;
+}
+
+
+header h1{
+    font-size: 6em;
+    margin-top: 150px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.75);
+    padding-bottom: 15px;
+}
+
+ header h2{
+    font-size: 2.5em;
+    margin-top: -25px;
+    font-style: italic;
+ }
+
+ header h1, header h2{
+    text-shadow: 0 0 5px black;
+ }
+
